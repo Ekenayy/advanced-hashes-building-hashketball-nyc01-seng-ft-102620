@@ -30,11 +30,12 @@ hashketball = {
       :number => "11",
       :shoe => "17",
       :points => 17,
-      :rebounds => 12,
-      :assists => 12,
-      :steals => 12	,
-      :blocks => 12,
-      :slam_dunks => 7}
+      :rebounds => 19,
+      :assists => 10,
+      :steals => 3,
+      :blocks => 1,
+      :slam_dunks => 15},
+      
         ]
     },
   :away => 
