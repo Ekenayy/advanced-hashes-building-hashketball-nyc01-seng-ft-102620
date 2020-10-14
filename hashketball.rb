@@ -60,15 +60,15 @@ hashketball = {
      :colors => [] ,
      :players =>
       [
-      {:player_name => nil },
-      {:number => nil},
-      {:shoe => nil},
-      {:points => nil},
-      {:rebounds => nil},
-      {:assists => nil},
-      {:steals => nil},
-      {:blocks => nil},
-      {:slam_dunks => nil}
+     {:player_name => "",
+      :number => 0,
+      :shoe => 16,
+      :points => 22,
+      :rebounds => 12,
+      :assists => 12,
+      :steals => 3,
+      :blocks => 1,
+      :slam_dunks => 1},
         ]
     }
 }
