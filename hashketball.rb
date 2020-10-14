@@ -8,7 +8,7 @@ hashketball = {
      :colors => [],
      :players =>
       [
-      {:player_name => "Alan Henderson",
+      {:player_name => "Alan Anderson",
       :number => "0",
       :shoe => "16",
       :points => 22,
